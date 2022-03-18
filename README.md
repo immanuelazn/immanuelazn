@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @immanuelazn
 - 👀 I’m interested in bioinformatics projects related to microbial metagenomics work.  
-- 🌱 Basic ML and other statistical methods in order to better understand how to optimize metagenomic modeling.
+- 🌱 I am trying to learn more on basic ML and other statistical methods in order to better understand how to optimize metagenomic modeling.
 - 📫 How to reach me: immanuelazn@gmail.com
 
 <!---
