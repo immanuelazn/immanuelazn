@@ -2,7 +2,6 @@
 - I work at Koonkie Cloud Services as a ML dev and a bioinformatician
 - I also am doing a Master's at Berkeley in Data Science
 - I’m interested in computational projects related to biological data.  
-- I am trying to learn more on basic ML and other statistical methods in order to better understand how to optimize metagenomic modeling.
 - How to reach me: immanuelazn@gmail.com
 
 <!---
