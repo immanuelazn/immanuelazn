@@ -1,7 +1,9 @@
 - Hi, I’m @immanuelazn
 - I also am doing a Master's at Berkeley in Data Science
 - I’m interested in computational projects related to biological data.  
-- How to reach me: immanuelazn@berkeley.edu
+- How to reach me: 
+immanuelazn@berkeley.edu
+iabdi@stanford.edu
 
 <!---
 immanuelazn/immanuelazn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
