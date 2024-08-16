@@ -1,5 +1,5 @@
 - Hi, I’m @immanuelazn
-- I am a research developer working at Dr. William Greenleaf's lab  working on ATAC-seq software toolkits.  
+- I am a research developer at Dr. William Greenleaf's lab at Stanford working on ATAC-seq software toolkits.  
 - My interests are specifically within natural language processing, genetics, and high performance computing.
 - How to reach me: 
 immanuelazn@berkeley.edu
